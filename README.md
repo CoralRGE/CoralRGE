@@ -1,9 +1,5 @@
 ### **Hi everyone**, I'm new to Github. 👋
 
-<!--
-**CoralRGE/CoralRGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 I am studying full stack developer
 - 🌱 I’m currently learning ...
